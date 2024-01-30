@@ -7,10 +7,11 @@
     <a href="mailto:Pnazarov86@yandex.ru"><img src="https://img.shields.io/badge/Yandex-red?style=flat-square&logo=Yandex" alt="Ya Badge"></a>
     <a href="https://t.me/NaZaRoV_86"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </p>
-  <p><img src="https://komarev.com/ghpvc/?username=Pnazarov86&style=flat-square&color=blue" alt=""/></p>
 </div>
 
-I’m Petr, beginner Python developer :wink:
+I’m Petr, beginner Python developer :wink:  
+
+![](https://komarev.com/ghpvc/?username=Pnazarov86&style=flat-square&color=blue)
 
 
 
