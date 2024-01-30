@@ -1,7 +1,19 @@
-### Hi there 👋
-### I’m Petr, beginner Python developer :wink:
-#### Контакты: [![Ya Badge](https://img.shields.io/badge/Yandex-red?style=flat&logo=Yandex&link=mailto:Pnazarov86@yandex.ru)](mailto:Pnazarov86@yandex.ru) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NaZaRoV_86)
+<div align="center">
+  <h3>Hi there 👋</h3>
+  <div id="header">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  </div>
+  <p>
+    <a href="mailto:Pnazarov86@yandex.ru">
+      <img src="https://img.shields.io/badge/Yandex-red?style=flat&logo=Yandex" alt="Ya Badge">
+    </a>
+    <a href="https://t.me/NaZaRoV_86">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge">
+    </a>
+  </p>
+</div>
 
+I’m Petr, beginner Python developer :wink:
 
 <!--
 **Pnazarov86/Pnazarov86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
