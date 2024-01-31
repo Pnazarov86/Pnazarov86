@@ -1,6 +1,6 @@
 <div align="center">
   <div id="badges">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   </div>
   <p>
     <a href="mailto:Pnazarov86@yandex.ru"><img src="https://img.shields.io/badge/Yandex-red?style=flat-square&logo=Yandex" alt="Ya Badge"></a>
