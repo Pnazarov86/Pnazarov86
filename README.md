@@ -8,8 +8,8 @@
   </p>
 </div>
 
-Hi there 👋  
-I’m Petr, beginner Python developer :wink: 
+**Hi there** 👋  
+**I’m Petr, beginner Python developer** :wink: 
 ____
 ### :hammer_and_wrench: My Tech Stack: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
