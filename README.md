@@ -1,13 +1,13 @@
 <div align="center">
-  <h3>Hi there 👋</h3>
   <div id="badges">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
   </div>
   <p>
     <a href="mailto:Pnazarov86@yandex.ru"><img src="https://img.shields.io/badge/Yandex-red?style=flat-square&logo=Yandex" alt="Ya Badge"></a>
     <a href="https://t.me/NaZaRoV_86"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
   </p>
 </div>
+Hi there 👋  
 
 I’m Petr, beginner Python developer :wink:  
 
